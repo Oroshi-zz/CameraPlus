@@ -4,7 +4,7 @@ using Dalamud.Plugin;
 using System;
 using System.Runtime.InteropServices;
 
-namespace CameraPlugin
+namespace CameraPlus
 {
     internal class CameraAddressResolver : BaseAddressResolver
     {

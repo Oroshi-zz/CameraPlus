@@ -7,9 +7,9 @@ using System;
 using System.Numerics;
 using System.Runtime.InteropServices;
 
-namespace CameraPlugin
+namespace CameraPlus
 {
-    public sealed partial class CameraPlugin : IDalamudPlugin
+    public sealed partial class CameraPlus : IDalamudPlugin
     {
         public string Name => "CameraMan";
         private const string CameraCommand = "/camera";
